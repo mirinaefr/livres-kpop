@@ -63,12 +63,24 @@ const CONFIG = {
     "star-de-kpop-kindle": { asin: "", lien: "", image: "" },  // laisse asin vide tant que la version Kindle n'existe pas
     "mots-meles": { asin: "B0CHDMTJ8Z", lien: "", image: "" },  // Mots-mêlés en coréen
 
+    // Page Livres de coloriage K-pop (classement Amazon relevé le 25 nov. 2026)
+    "col-53-coloriages": { asin: "B0GYJ6HKF8", lien: "", image: "" },  // n° 1 : 53 coloriages K-pop
+    "col-kdh-deluxe": { asin: "B0H6F6T8PH", lien: "", image: "" },  // n° 2 : KPop Demon Hunters : livre de coloriage officiel deluxe
+    "col-kpop-a-colorier": { asin: "B0HJNB4KZQ", lien: "", image: "" },  // n° 3 : K-POP À COLORIER
+    "col-kdh-non-officiel": { asin: "9403923571", lien: "", image: "" },  // n° 4 : Livre de coloriage K Pop Demon Hunters
+    "col-55-dessins": { asin: "B0GQZMFVDV", lien: "", image: "" },  // n° 5 : Livre de coloriages K-POP pour enfants
+    "col-cosy-kpop": { asin: "229501753X", lien: "", image: "" },  // n° 6 : Cosy K-POP : coloriages mignons qui font vibrer
+    "col-kpop-fandom": { asin: "2821219644", lien: "", image: "" },  // n° 7 : K-Pop Fandom : livre de coloriages, spécial kawaii
+    "col-idols-journal": { asin: "B0FXB2CFK7", lien: "", image: "" },  // n° 8 : K-pop Idols : cahier de coloriage et journal créatif
+    "col-mon-univers": { asin: "B0H9C5KD8H", lien: "", image: "" },  // n° 9 : Cahier coloriage : Mon univers K-POP
+    "col-kdh-canape": { asin: "2821220189", lien: "", image: "" },  // n° 10 : KPop Demon Hunters : Canap', canap', canap' !
+
     // Page KPop Demon Hunters (le roman officiel et K-Pop Academy sont déjà dans le guide)
     "kdh-pour-les-fans": { asin: "2821220138", lien: "", image: "" },  // KPop Demon Hunters : Pour les fans ! ; ASIN déduit de l'ISBN, vérifie que le lien ouvre le bon livre
     "kdh-activites": { asin: "2821220022", lien: "", image: "" },  // KPop Demon Hunters : Le livre officiel d'activités ; ASIN déduit de l'ISBN, vérifie que le lien ouvre le bon livre
     "kdh-roman-graphique": { asin: "2821220014", lien: "", image: "" },  // KPop Demon Hunters : Le roman graphique du film
     "kdh-manhwa": { asin: "B0H6LG6RMB", lien: "", image: "" },  // KPop Demon Hunters : le manhwa officiel, tome 1
-    "kdh-coloriage-albin": { asin: "", lien: "", image: "" },  // Livre de coloriage pour les fans de KPop Demon Hunters ; ASIN déduit de l'ISBN, vérifie que le lien ouvre le bon livre
-    "kdh-activites-albin": { asin: "", lien: "", image: "" },  // Le livre d'activités non officiel KPop Demon Hunters ; ASIN déduit de l'ISBN, vérifie que le lien ouvre le bon livre
+    "kdh-coloriage-albin": { asin: "", lien: "", image: "" },  // Livre de coloriage pour les fans de KPop Demon Hunters
+    "kdh-activites-albin": { asin: "", lien: "", image: "" },  // Le livre d'activités non officiel KPop Demon Hunters
   }
 };
