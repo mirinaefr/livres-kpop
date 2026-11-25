@@ -14,7 +14,7 @@
 //     prix  : affiché seulement sur les fiches de Lina Yoon.
 // =====================================================================
 const CONFIG = {
-  tagAmazon: "TONIDENTIFIANT-21",
+  tagAmazon: "livreskpop-21",
   domaineAmazon: "https://www.amazon.fr",
   contact: "contact@livres-kpop.com",
   textes: {
