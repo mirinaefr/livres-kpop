@@ -63,17 +63,17 @@ const CONFIG = {
     "star-de-kpop-kindle": { asin: "", lien: "", image: "" },  // laisse asin vide tant que la version Kindle n'existe pas
     "mots-meles": { asin: "B0CHDMTJ8Z", lien: "", image: "" },  // Mots-mêlés en coréen
 
-    // Page Livres de coloriage K-pop (classement Amazon relevé le 25 nov. 2026)
-    "col-53-coloriages": { asin: "B0GYJ6HKF8", lien: "", image: "" },  // n° 1 : 53 coloriages K-pop
-    "col-kdh-deluxe": { asin: "B0H6F6T8PH", lien: "", image: "" },  // n° 2 : KPop Demon Hunters : livre de coloriage officiel deluxe
-    "col-kpop-a-colorier": { asin: "B0HJNB4KZQ", lien: "", image: "" },  // n° 3 : K-POP À COLORIER
-    "col-kdh-non-officiel": { asin: "9403923571", lien: "", image: "" },  // n° 4 : Livre de coloriage K Pop Demon Hunters
-    "col-55-dessins": { asin: "B0GQZMFVDV", lien: "", image: "" },  // n° 5 : Livre de coloriages K-POP pour enfants
-    "col-cosy-kpop": { asin: "229501753X", lien: "", image: "" },  // n° 6 : Cosy K-POP : coloriages mignons qui font vibrer
-    "col-kpop-fandom": { asin: "2821219644", lien: "", image: "" },  // n° 7 : K-Pop Fandom : livre de coloriages, spécial kawaii
-    "col-idols-journal": { asin: "B0FXB2CFK7", lien: "", image: "" },  // n° 8 : K-pop Idols : cahier de coloriage et journal créatif
-    "col-mon-univers": { asin: "B0H9C5KD8H", lien: "", image: "" },  // n° 9 : Cahier coloriage : Mon univers K-POP
-    "col-kdh-canape": { asin: "2821220189", lien: "", image: "" },  // n° 10 : KPop Demon Hunters : Canap', canap', canap' !
+    // Page Livres de coloriage K-pop
+    "col-53-coloriages": { asin: "B0GYJ6HKF8", lien: "", image: "" },  // 53 coloriages K-pop
+    "col-kdh-deluxe": { asin: "B0H6F6T8PH", lien: "", image: "" },  // KPop Demon Hunters : livre de coloriage officiel deluxe
+    "col-kpop-a-colorier": { asin: "B0HJNB4KZQ", lien: "", image: "" },  // K-POP À COLORIER
+    "col-kdh-non-officiel": { asin: "9403923571", lien: "", image: "" },  // Livre de coloriage K Pop Demon Hunters
+    "col-55-dessins": { asin: "B0GQZMFVDV", lien: "", image: "" },  // Livre de coloriages K-POP pour enfants
+    "col-cosy-kpop": { asin: "229501753X", lien: "", image: "" },  // Cosy K-POP : coloriages mignons qui font vibrer
+    "col-kpop-fandom": { asin: "2821219644", lien: "", image: "" },  // K-Pop Fandom : livre de coloriages, spécial kawaii
+    "col-idols-journal": { asin: "B0FXB2CFK7", lien: "", image: "" },  // K-pop Idols : cahier de coloriage et journal créatif
+    "col-mon-univers": { asin: "B0H9C5KD8H", lien: "", image: "" },  // Cahier coloriage : Mon univers K-POP
+    "col-kdh-canape": { asin: "2821220189", lien: "", image: "" },  // KPop Demon Hunters : Canap', canap', canap' !
 
     // Page KPop Demon Hunters (le roman officiel et K-Pop Academy sont déjà dans le guide)
     "kdh-pour-les-fans": { asin: "2821220138", lien: "", image: "" },  // KPop Demon Hunters : Pour les fans ! ; ASIN déduit de l'ISBN, vérifie que le lien ouvre le bon livre
