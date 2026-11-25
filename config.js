@@ -68,7 +68,7 @@ const CONFIG = {
     "kdh-activites": { asin: "2821220022", lien: "", image: "" },  // KPop Demon Hunters : Le livre officiel d'activités ; ASIN déduit de l'ISBN, vérifie que le lien ouvre le bon livre
     "kdh-roman-graphique": { asin: "2821220014", lien: "", image: "" },  // KPop Demon Hunters : Le roman graphique du film
     "kdh-manhwa": { asin: "B0H6LG6RMB", lien: "", image: "" },  // KPop Demon Hunters : le manhwa officiel, tome 1
-    "kdh-coloriage-albin": { asin: "2226514120", lien: "", image: "" },  // Livre de coloriage pour les fans de KPop Demon Hunters ; ASIN déduit de l'ISBN, vérifie que le lien ouvre le bon livre
-    "kdh-activites-albin": { asin: "2226513612", lien: "", image: "" },  // Le livre d'activités non officiel KPop Demon Hunters ; ASIN déduit de l'ISBN, vérifie que le lien ouvre le bon livre
+    "kdh-coloriage-albin": { asin: "", lien: "", image: "" },  // Livre de coloriage pour les fans de KPop Demon Hunters ; ASIN déduit de l'ISBN, vérifie que le lien ouvre le bon livre
+    "kdh-activites-albin": { asin: "", lien: "", image: "" },  // Le livre d'activités non officiel KPop Demon Hunters ; ASIN déduit de l'ISBN, vérifie que le lien ouvre le bon livre
   }
 };
