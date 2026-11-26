@@ -82,5 +82,19 @@ const CONFIG = {
     "kdh-manhwa": { asin: "B0H6LG6RMB", lien: "", image: "" },  // KPop Demon Hunters : le manhwa officiel, tome 1
     "kdh-coloriage-albin": { asin: "", lien: "", image: "" },  // Livre de coloriage pour les fans de KPop Demon Hunters
     "kdh-activites-albin": { asin: "", lien: "", image: "" },  // Le livre d'activités non officiel KPop Demon Hunters
+
+    // Page Romans coréens
+    "rc-vegetarienne": { asin: "2253067903", lien: "", image: "" },
+    "rc-impossibles-adieux": { asin: "2253248657", lien: "", image: "" },
+    "rc-lecons-de-grec": { asin: "2253909971", lien: "", image: "" },
+    "rc-celui-qui-revient": { asin: "225390998X", lien: "", image: "" },
+    "rc-magasin-de-lettres": { asin: "B0H651YLHV", lien: "", image: "" },
+    "rc-hyunam": { asin: "2809716757", lien: "", image: "" },
+    "rc-librairie-souvenirs": { asin: "2749961726", lien: "", image: "" },
+    "rc-grand-magasin-reves": { asin: "280971648X", lien: "", image: "" },
+    "rc-vagabond-seoul": { asin: "2809716811", lien: "", image: "" },
+    "rc-kim-jiyoung": { asin: "2264077697", lien: "", image: "" },
+    "rc-amande": { asin: "2266339656", lien: "", image: "" },
+    "rc-coupable": { asin: "2226511717", lien: "", image: "" },
   }
 };
